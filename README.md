@@ -14,7 +14,7 @@
 
 Create Database
 
-    use hps_goal_db
+    use rest_db
 
 ### Create db user
 	db.createUser(
